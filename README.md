@@ -1,6 +1,6 @@
 # AI Journaling Assistant
 
-A personal journaling AI that helps you track your emotions and experiences through voice interactions. Built with AgentStack.
+A personal journaling AI that helps you track your emotions and experiences through voice interactions.
 
 ## Features
 
